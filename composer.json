@@ -12,6 +12,7 @@
 	"require": {
 		"php": ">=5.2.11",
 		"zf1/zend-exception": "self.version",
+		"zf1/zend-http": "self.version",
 		"zf1/zend-loader": "self.version",
 		"zf1/zend-uri": "self.version",
 		"zf1/zend-xml": "self.version"
